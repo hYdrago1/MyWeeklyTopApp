@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		93AABFE72EAE4981001A3D77 /* Exceptions for "MyWeeklyTopApp" folder in "MyWeeklyTopApp" target */ = {
+		93AAC0182EAE5590001A3D77 /* Exceptions for "MyWeeklyTopApp" folder in "MyWeeklyTopApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		93AABFD72EAE497F001A3D77 /* MyWeeklyTopApp */ = {
+		93AAC0112EAE5590001A3D77 /* MyWeeklyTopApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				93AABFE72EAE4981001A3D77 /* Exceptions for "MyWeeklyTopApp" folder in "MyWeeklyTopApp" target */,
+				93AAC0182EAE5590001A3D77 /* Exceptions for "MyWeeklyTopApp" folder in "MyWeeklyTopApp" target */,
 			);
 			path = MyWeeklyTopApp;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		93AABFCC2EAE497F001A3D77 = {
 			isa = PBXGroup;
 			children = (
-				93AABFD72EAE497F001A3D77 /* MyWeeklyTopApp */,
+				93AAC0112EAE5590001A3D77 /* MyWeeklyTopApp */,
 				93AABFD62EAE497F001A3D77 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				93AABFD72EAE497F001A3D77 /* MyWeeklyTopApp */,
+				93AAC0112EAE5590001A3D77 /* MyWeeklyTopApp */,
 			);
 			name = MyWeeklyTopApp;
 			packageProductDependencies = (
